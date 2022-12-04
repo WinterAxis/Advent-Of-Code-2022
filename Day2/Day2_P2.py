@@ -22,13 +22,3 @@ with open('Day2_input.txt', encoding='utf8') as f:
     print(p, o, n, round)
     score += round
 print(score)
-
-# A X
-# B X
-# C X 
-# A Y
-# B Y
-# C Y
-# A Z
-# B Z
-# C Z
